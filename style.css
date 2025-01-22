@@ -1,0 +1,46 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    color: #595959;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, .heading_1 {
+    font-size: 26px;
+    color: #000000;
+}
+
+h2, .heading_2 {
+    font-size: 19px;
+    color: #000000;
+}
+
+h3, .heading_3 {
+    font-size: 17px;
+    color: #000000;
+}
+
+/* Subtitles */
+.subtitle {
+    font-size: 14px;
+    color: #595959;
+}
+
+/* Body text */
+.body_text {
+    font-size: 14px;
+    color: #595959;
+}
+
+/* Links */
+a, .link {
+    color: #3030F1;
+    text-decoration: none;
+}
+
+a:hover, .link:hover {
+    text-decoration: underline;
+}
